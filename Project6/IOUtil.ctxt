@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=java.util.HashMap\ readBusStopInfo(java.util.Scanner)
+comment1.params=input\ busStops
+comment1.target=java.util.ArrayList\ readLineInfo(java.util.Scanner,\ java.util.HashMap)
+comment2.params=fileName
+comment2.target=java.util.ArrayList\ readBusstopAndLineInfo(java.lang.String)
+comment2.text=\ Reads\ the\ bus\ stop\ and\ line\ information\ from\ file\ fileName\ \r\n\ Returns\ an\ ArrayList\ of\ BusStop,\ TimePoint,\ and\ Line\ objects\r\n\ An\ Exception\ object\ is\ thrown\ if\ file\ fileName's\ format\ does\ not\ match\ the\ above\ format.\ \r\n
+numComments=3

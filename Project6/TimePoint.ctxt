@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TimePoint()
+comment1.params=name\ x\ y
+comment1.target=TimePoint(java.lang.String,\ int,\ int)
+comment1.text=Initializes\ name,\ x,\ and\ y\ using\ the\ parameters\ by\ calling\ super
+comment2.params=name\ x\ y\ lines\ numLines
+comment2.target=TimePoint(java.lang.String,\ int,\ int,\ Line[],\ int)
+comment2.text=Initializes\ name,\ x,\ and\ y,\ and\ lines\ using\ the\ parameters\ by\ calling\ super
+comment3.params=image
+comment3.target=void\ setImage(java.awt.Image)
+comment4.params=
+comment4.target=java.awt.Image\ getImage()
+comment5.params=g\ width\ height
+comment5.target=void\ draw(java.awt.Graphics,\ int,\ int)
+numComments=6

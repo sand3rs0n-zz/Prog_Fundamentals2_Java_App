@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PointOfInterest()
+comment1.params=name\ x\ y\ description
+comment1.target=PointOfInterest(java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=name\ x\ y\ description\ lines\ numLines
+comment2.target=PointOfInterest(java.lang.String,\ int,\ int,\ java.lang.String,\ Line[],\ int)
+comment3.params=image
+comment3.target=void\ setImage(java.awt.Image)
+comment4.params=
+comment4.target=java.awt.Image\ getImage()
+comment5.params=g\ width\ height
+comment5.target=void\ draw(java.awt.Graphics,\ int,\ int)
+comment6.params=description
+comment6.target=void\ setDescription(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getDescription()
+numComments=8
